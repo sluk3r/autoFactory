@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Map;
 
 
-class FactoryBuilder {
+public class FactoryBuilder {
     private Filer filer;
     private Map<ClassName, List<ElementInfo>> input;
 
